@@ -1,3 +1,3 @@
-# AIML-Works
+# Face Detection using Haar cascade
 
-Face Detection Project using haar-cascade
+
